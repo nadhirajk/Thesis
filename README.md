@@ -4,11 +4,14 @@
 
 Part of mathematics major at Pomona College
 
-Topic: Artificial Intelligence
+Topic: Algorithms and Artificial Intelligence for 2048
 
-Currently developing AI for the game 2048.
+22nd February, 2018:
+Currently working on extending Monte Carlo Tree Search algorithms and implementing reinforcement learning.
 
-Latest version is in 2048 master.ipynb (iPython Jupyter notebook)
+Draft of thesis is in Assignments/Draft
+
+Latest version of code is in the 2048-AI folder in 2048 master.ipynb (Jupyter notebook)
 
 To run:
 
@@ -23,4 +26,4 @@ choose AI to run
 
 (AI parameters can be edited)
 
-AI 12 (Monte Carlo evaluation) is the most successful player so far.
+AI 13 (Limited depth Monte Carlo evaluation) is the most successful player so far.
