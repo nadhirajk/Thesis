@@ -1,17 +1,12 @@
 # Thesis
 
-(in progress) Senior thesis in mathematics
+Senior thesis in mathematics
 
 Part of mathematics major at Pomona College
 
 Topic: Algorithms and Artificial Intelligence for 2048
 
-22nd February, 2018:
-Currently working on extending Monte Carlo Tree Search algorithms and implementing reinforcement learning.
-
-Draft of thesis is in Assignments/Draft
-
-Latest version of code is in the 2048-AI folder in 2048 master.ipynb (Jupyter notebook)
+Latest version of code is in the 2048-AI folder in 2048 master.ipynb (Jupyter notebook) (currently under expansion, may have bugs)
 
 To run:
 
